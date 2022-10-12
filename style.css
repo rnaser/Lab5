@@ -1,7 +1,11 @@
 table { color: green; }
 th {color: blue;}
 .content-table {
-	margin: 30px 0;
+	margin: 50px 0;
 	font-size: 0.8em;
 	background-color: black;
+	
+}
+.content-table th {
+	font-size 1.0em;
 }
